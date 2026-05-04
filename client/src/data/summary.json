@@ -1,0 +1,31 @@
+{
+  "total_genes": 13181,
+  "total_samples": 9,
+  "species": [
+    "Human",
+    "Mouse",
+    "Naked Mole Rat"
+  ],
+  "samples_per_species": 3,
+  "pathways": [
+    "BER",
+    "NER",
+    "MMR",
+    "HR",
+    "NHEJ",
+    "Direct Reversal"
+  ],
+  "pathway_gene_counts": {
+    "BER": 6,
+    "NER": 8,
+    "MMR": 8,
+    "HR": 5,
+    "NHEJ": 7,
+    "Direct Reversal": 3
+  },
+  "top_variable_gene": "ASS1_Ass1",
+  "normalization": "Log2 CPM",
+  "platform": "Illumina HiSeq 2500",
+  "tissue": "Liver",
+  "accession": "GSE75606"
+}

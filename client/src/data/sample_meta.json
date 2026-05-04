@@ -1,0 +1,38 @@
+{
+  "hs1": {
+    "species": "Human",
+    "color": "#3B82F6"
+  },
+  "hs2": {
+    "species": "Human",
+    "color": "#3B82F6"
+  },
+  "hs3": {
+    "species": "Human",
+    "color": "#3B82F6"
+  },
+  "mm1": {
+    "species": "Mouse",
+    "color": "#EF4444"
+  },
+  "mm2": {
+    "species": "Mouse",
+    "color": "#EF4444"
+  },
+  "mm3": {
+    "species": "Mouse",
+    "color": "#EF4444"
+  },
+  "nmr4": {
+    "species": "Naked Mole Rat",
+    "color": "#10B981"
+  },
+  "nmr5": {
+    "species": "Naked Mole Rat",
+    "color": "#10B981"
+  },
+  "nmr6": {
+    "species": "Naked Mole Rat",
+    "color": "#10B981"
+  }
+}

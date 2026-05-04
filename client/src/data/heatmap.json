@@ -1,0 +1,2767 @@
+{
+  "genes": [
+    "ASS1_Ass1",
+    "CA3_Car3",
+    "CYP3A5_Cyp3a16",
+    "TMEM107_Tmem107",
+    "DDT_Ddt",
+    "TCF3_Tcf3",
+    "VSIG8_Vsig8",
+    "AMY2A_Amy1",
+    "MIOX_Miox",
+    "IGF2_Igf2",
+    "APOC2_Apoc2",
+    "CTSV_Ctsl",
+    "MOXD1_Moxd1",
+    "SERPINA5_Serpina5",
+    "RGPD5_Ranbp2",
+    "RGPD6_Ranbp2",
+    "ZDHHC22_Zdhhc22",
+    "RGPD2_Ranbp2",
+    "PTP4A1_Ptp4a1",
+    "TIGD5_Tigd5",
+    "SAA2-SAA4_Saa4",
+    "UGT2B7_Ugt2b36",
+    "NNMT_Nnmt",
+    "APOC4_Apoc4",
+    "PAPPA_Pappa",
+    "INMT_Inmt",
+    "WNK2_Wnk2",
+    "GAPDH_Gapdh",
+    "SERPINE1_Serpine1",
+    "PRDX1_Prdx1",
+    "RPL26_Rpl26",
+    "CNNM1_Cnnm1",
+    "GATM_Gatm",
+    "DHDH_Dhdh",
+    "SLC47A1_Slc47a1",
+    "CD164_Cd164",
+    "PCYOX1_Pcyox1",
+    "APOM_Apom",
+    "RPL30_Rpl30",
+    "HSPA8_Hspa8",
+    "HSP90AB1_Hsp90ab1",
+    "DAO_Dao",
+    "ACSM2A_Acsm2",
+    "SLC1A2_Slc1a2",
+    "OBP2B_Obp2a",
+    "EIF3C_Eif3c",
+    "RGPD4_Ranbp2",
+    "H3F3A_H3f3b",
+    "TRANK1_Trank1",
+    "SEC14L2_Sec14l2"
+  ],
+  "samples": [
+    "hs1",
+    "hs2",
+    "hs3",
+    "mm1",
+    "mm2",
+    "mm3",
+    "nmr4",
+    "nmr5",
+    "nmr6"
+  ],
+  "records": [
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "hs1",
+      "value": 10.345,
+      "species": "Human"
+    },
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "hs2",
+      "value": 9.629,
+      "species": "Human"
+    },
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "hs3",
+      "value": 10.726,
+      "species": "Human"
+    },
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "mm1",
+      "value": 0.542,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "mm2",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "mm3",
+      "value": 0.324,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "nmr4",
+      "value": 11.252,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "nmr5",
+      "value": 11.335,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "ASS1_Ass1",
+      "sample": "nmr6",
+      "value": 11.373,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "hs1",
+      "value": 0.565,
+      "species": "Human"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "hs2",
+      "value": 1.357,
+      "species": "Human"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "hs3",
+      "value": 1.364,
+      "species": "Human"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "mm1",
+      "value": 12.853,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "mm2",
+      "value": 11.768,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "mm3",
+      "value": 12.588,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "nmr4",
+      "value": 9.639,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "nmr5",
+      "value": 10.692,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CA3_Car3",
+      "sample": "nmr6",
+      "value": 9.878,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "hs1",
+      "value": 10.3,
+      "species": "Human"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "hs2",
+      "value": 10.267,
+      "species": "Human"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "hs3",
+      "value": 10.449,
+      "species": "Human"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "mm1",
+      "value": 2.394,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "mm2",
+      "value": 1.48,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "mm3",
+      "value": 1.864,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "nmr4",
+      "value": 13.088,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "nmr5",
+      "value": 12.636,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CYP3A5_Cyp3a16",
+      "sample": "nmr6",
+      "value": 12.579,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "hs1",
+      "value": 12.144,
+      "species": "Human"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "hs2",
+      "value": 11.904,
+      "species": "Human"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "hs3",
+      "value": 12.383,
+      "species": "Human"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "mm1",
+      "value": 1.333,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "mm2",
+      "value": 1.393,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "mm3",
+      "value": 1.913,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "nmr4",
+      "value": 3.913,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "nmr5",
+      "value": 3.601,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TMEM107_Tmem107",
+      "sample": "nmr6",
+      "value": 3.726,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "mm1",
+      "value": 7.652,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "mm2",
+      "value": 7.699,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "mm3",
+      "value": 7.907,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "nmr4",
+      "value": 11.097,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "nmr5",
+      "value": 10.702,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DDT_Ddt",
+      "sample": "nmr6",
+      "value": 10.701,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "hs1",
+      "value": 3.309,
+      "species": "Human"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "hs2",
+      "value": 3.982,
+      "species": "Human"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "hs3",
+      "value": 3.514,
+      "species": "Human"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "mm1",
+      "value": 14.65,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "mm2",
+      "value": 13.552,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "mm3",
+      "value": 13.247,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "nmr4",
+      "value": 5.237,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "nmr5",
+      "value": 5.098,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TCF3_Tcf3",
+      "sample": "nmr6",
+      "value": 4.934,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "hs2",
+      "value": 0.57,
+      "species": "Human"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "mm1",
+      "value": 10.612,
+      "species": "Mouse"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "mm2",
+      "value": 9.04,
+      "species": "Mouse"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "mm3",
+      "value": 9.528,
+      "species": "Mouse"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "nmr5",
+      "value": 0.2,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "VSIG8_Vsig8",
+      "sample": "nmr6",
+      "value": 0.578,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "mm1",
+      "value": 7.99,
+      "species": "Mouse"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "mm2",
+      "value": 8.45,
+      "species": "Mouse"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "mm3",
+      "value": 8.405,
+      "species": "Mouse"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "nmr4",
+      "value": 10.466,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "nmr5",
+      "value": 10.463,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "AMY2A_Amy1",
+      "sample": "nmr6",
+      "value": 10.368,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "hs1",
+      "value": 0.655,
+      "species": "Human"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "hs2",
+      "value": 0.148,
+      "species": "Human"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "hs3",
+      "value": 0.536,
+      "species": "Human"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "mm1",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "mm2",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "mm3",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "nmr4",
+      "value": 9.973,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "nmr5",
+      "value": 9.482,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "MIOX_Miox",
+      "sample": "nmr6",
+      "value": 9.762,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "hs2",
+      "value": 0.719,
+      "species": "Human"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "hs3",
+      "value": 0.807,
+      "species": "Human"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "mm1",
+      "value": 0.685,
+      "species": "Mouse"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "mm2",
+      "value": 0.406,
+      "species": "Mouse"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "mm3",
+      "value": 1.004,
+      "species": "Mouse"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "nmr4",
+      "value": 10.271,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "nmr5",
+      "value": 9.631,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "IGF2_Igf2",
+      "sample": "nmr6",
+      "value": 10.08,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "mm1",
+      "value": 8.116,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "mm2",
+      "value": 7.925,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "mm3",
+      "value": 7.921,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "nmr4",
+      "value": 10.023,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "nmr5",
+      "value": 10.136,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOC2_Apoc2",
+      "sample": "nmr6",
+      "value": 10.078,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "hs1",
+      "value": 0.132,
+      "species": "Human"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "hs2",
+      "value": 0.281,
+      "species": "Human"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "hs3",
+      "value": 0.378,
+      "species": "Human"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "mm1",
+      "value": 9.632,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "mm2",
+      "value": 10.132,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "mm3",
+      "value": 9.63,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "nmr4",
+      "value": 8.568,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "nmr5",
+      "value": 8.63,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CTSV_Ctsl",
+      "sample": "nmr6",
+      "value": 8.775,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "hs1",
+      "value": 1.843,
+      "species": "Human"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "hs2",
+      "value": 0.461,
+      "species": "Human"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "hs3",
+      "value": 1.185,
+      "species": "Human"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "mm1",
+      "value": 0.204,
+      "species": "Mouse"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "mm2",
+      "value": 0.217,
+      "species": "Mouse"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "mm3",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "nmr4",
+      "value": 9.419,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "nmr5",
+      "value": 9.052,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "MOXD1_Moxd1",
+      "sample": "nmr6",
+      "value": 9.305,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "hs1",
+      "value": 9.657,
+      "species": "Human"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "hs2",
+      "value": 9.255,
+      "species": "Human"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "hs3",
+      "value": 9.885,
+      "species": "Human"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "mm1",
+      "value": 2.854,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "mm2",
+      "value": 1.712,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "mm3",
+      "value": 2.364,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "nmr5",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SERPINA5_Serpina5",
+      "sample": "nmr6",
+      "value": 0.114,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "mm1",
+      "value": 8.135,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "mm2",
+      "value": 8.678,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "mm3",
+      "value": 8.836,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "nmr4",
+      "value": 8.71,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "nmr5",
+      "value": 8.548,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD5_Ranbp2",
+      "sample": "nmr6",
+      "value": 8.857,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "mm1",
+      "value": 8.135,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "mm2",
+      "value": 8.678,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "mm3",
+      "value": 8.836,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "nmr4",
+      "value": 8.71,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "nmr5",
+      "value": 8.548,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD6_Ranbp2",
+      "sample": "nmr6",
+      "value": 8.857,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "mm1",
+      "value": 8.942,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "mm2",
+      "value": 8.747,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "mm3",
+      "value": 8.439,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "nmr5",
+      "value": 0.531,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "ZDHHC22_Zdhhc22",
+      "sample": "nmr6",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "hs3",
+      "value": 0.202,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "mm1",
+      "value": 8.135,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "mm2",
+      "value": 8.678,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "mm3",
+      "value": 8.836,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "nmr4",
+      "value": 8.71,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "nmr5",
+      "value": 8.548,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD2_Ranbp2",
+      "sample": "nmr6",
+      "value": 8.857,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "hs1",
+      "value": 10.231,
+      "species": "Human"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "hs2",
+      "value": 10.362,
+      "species": "Human"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "hs3",
+      "value": 9.664,
+      "species": "Human"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "mm1",
+      "value": 4.901,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "mm2",
+      "value": 5.55,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "mm3",
+      "value": 5.152,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "nmr5",
+      "value": 0.375,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PTP4A1_Ptp4a1",
+      "sample": "nmr6",
+      "value": 0.318,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "hs1",
+      "value": 2.024,
+      "species": "Human"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "hs2",
+      "value": 1.986,
+      "species": "Human"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "hs3",
+      "value": 1.827,
+      "species": "Human"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "mm1",
+      "value": 10.952,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "mm2",
+      "value": 10.023,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "mm3",
+      "value": 9.65,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "nmr4",
+      "value": 2.135,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "nmr5",
+      "value": 1.129,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TIGD5_Tigd5",
+      "sample": "nmr6",
+      "value": 1.446,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "mm1",
+      "value": 8.495,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "mm2",
+      "value": 8.816,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "mm3",
+      "value": 9.071,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "nmr4",
+      "value": 8.036,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "nmr5",
+      "value": 8.283,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SAA2-SAA4_Saa4",
+      "sample": "nmr6",
+      "value": 7.591,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "hs1",
+      "value": 10.123,
+      "species": "Human"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "hs2",
+      "value": 9.678,
+      "species": "Human"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "hs3",
+      "value": 10.268,
+      "species": "Human"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "mm1",
+      "value": 10.077,
+      "species": "Mouse"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "mm2",
+      "value": 10.138,
+      "species": "Mouse"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "mm3",
+      "value": 10.221,
+      "species": "Mouse"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "nmr4",
+      "value": 1.614,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "nmr5",
+      "value": 2.213,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "UGT2B7_Ugt2b36",
+      "sample": "nmr6",
+      "value": 1.356,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "hs1",
+      "value": 10.445,
+      "species": "Human"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "hs2",
+      "value": 10.09,
+      "species": "Human"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "hs3",
+      "value": 7.332,
+      "species": "Human"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "mm1",
+      "value": 2.625,
+      "species": "Mouse"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "mm2",
+      "value": 5.747,
+      "species": "Mouse"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "mm3",
+      "value": 3.865,
+      "species": "Mouse"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "nmr5",
+      "value": 0.103,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "NNMT_Nnmt",
+      "sample": "nmr6",
+      "value": 0.219,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "mm1",
+      "value": 9.482,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "mm2",
+      "value": 9.19,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "mm3",
+      "value": 9.294,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "nmr4",
+      "value": 6.298,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "nmr5",
+      "value": 6.489,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOC4_Apoc4",
+      "sample": "nmr6",
+      "value": 6.391,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "hs1",
+      "value": 2.09,
+      "species": "Human"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "hs2",
+      "value": 1.473,
+      "species": "Human"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "hs3",
+      "value": 1.322,
+      "species": "Human"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "mm1",
+      "value": 10.062,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "mm2",
+      "value": 9.405,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "mm3",
+      "value": 9.781,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "nmr4",
+      "value": 1.295,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "nmr5",
+      "value": 1.69,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PAPPA_Pappa",
+      "sample": "nmr6",
+      "value": 1.309,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "hs1",
+      "value": 5.045,
+      "species": "Human"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "hs2",
+      "value": 4.958,
+      "species": "Human"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "hs3",
+      "value": 4.362,
+      "species": "Human"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "mm1",
+      "value": 9.804,
+      "species": "Mouse"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "mm2",
+      "value": 9.354,
+      "species": "Mouse"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "mm3",
+      "value": 9.22,
+      "species": "Mouse"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "nmr5",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "INMT_Inmt",
+      "sample": "nmr6",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "hs1",
+      "value": 1.68,
+      "species": "Human"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "hs2",
+      "value": 1.681,
+      "species": "Human"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "hs3",
+      "value": 2.247,
+      "species": "Human"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "mm1",
+      "value": 11.391,
+      "species": "Mouse"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "mm2",
+      "value": 10.151,
+      "species": "Mouse"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "mm3",
+      "value": 10.708,
+      "species": "Mouse"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "nmr4",
+      "value": 4.167,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "nmr5",
+      "value": 2.825,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "WNK2_Wnk2",
+      "sample": "nmr6",
+      "value": 3.919,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "hs1",
+      "value": 9.278,
+      "species": "Human"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "hs2",
+      "value": 9.038,
+      "species": "Human"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "hs3",
+      "value": 9.642,
+      "species": "Human"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "mm1",
+      "value": 2.914,
+      "species": "Mouse"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "mm2",
+      "value": 2.671,
+      "species": "Mouse"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "mm3",
+      "value": 2.292,
+      "species": "Mouse"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "nmr4",
+      "value": 0.313,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "nmr5",
+      "value": 0.103,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "GAPDH_Gapdh",
+      "sample": "nmr6",
+      "value": 0.219,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "hs1",
+      "value": 10.779,
+      "species": "Human"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "hs2",
+      "value": 9.034,
+      "species": "Human"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "hs3",
+      "value": 10.181,
+      "species": "Human"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "mm1",
+      "value": 2.998,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "mm2",
+      "value": 4.469,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "mm3",
+      "value": 2.176,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "nmr4",
+      "value": 0.165,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "nmr5",
+      "value": 1.224,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SERPINE1_Serpine1",
+      "sample": "nmr6",
+      "value": 2.231,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "hs1",
+      "value": 8.049,
+      "species": "Human"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "hs2",
+      "value": 7.712,
+      "species": "Human"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "hs3",
+      "value": 7.535,
+      "species": "Human"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "mm1",
+      "value": 8.268,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "mm2",
+      "value": 8.954,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "mm3",
+      "value": 8.929,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "nmr5",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PRDX1_Prdx1",
+      "sample": "nmr6",
+      "value": 0.41,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "hs1",
+      "value": 7.338,
+      "species": "Human"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "hs2",
+      "value": 6.895,
+      "species": "Human"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "hs3",
+      "value": 7.2,
+      "species": "Human"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "mm1",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "mm2",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "mm3",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "nmr4",
+      "value": 8.443,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "nmr5",
+      "value": 9.076,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RPL26_Rpl26",
+      "sample": "nmr6",
+      "value": 8.917,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "hs1",
+      "value": 0.468,
+      "species": "Human"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "hs2",
+      "value": 0.854,
+      "species": "Human"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "hs3",
+      "value": 1.087,
+      "species": "Human"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "mm1",
+      "value": 9.519,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "mm2",
+      "value": 8.286,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "mm3",
+      "value": 7.95,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "nmr4",
+      "value": 0.57,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "nmr5",
+      "value": 0.375,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CNNM1_Cnnm1",
+      "sample": "nmr6",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "hs1",
+      "value": 11.156,
+      "species": "Human"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "hs2",
+      "value": 10.986,
+      "species": "Human"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "hs3",
+      "value": 10.56,
+      "species": "Human"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "mm1",
+      "value": 4.966,
+      "species": "Mouse"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "mm2",
+      "value": 5.575,
+      "species": "Mouse"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "mm3",
+      "value": 5.008,
+      "species": "Mouse"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "nmr4",
+      "value": 2.635,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "nmr5",
+      "value": 1.755,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "GATM_Gatm",
+      "sample": "nmr6",
+      "value": 0.929,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "hs3",
+      "value": 0.536,
+      "species": "Human"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "mm1",
+      "value": 8.086,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "mm2",
+      "value": 7.988,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "mm3",
+      "value": 8.349,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "nmr5",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DHDH_Dhdh",
+      "sample": "nmr6",
+      "value": 0.41,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "hs1",
+      "value": 7.942,
+      "species": "Human"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "hs2",
+      "value": 7.464,
+      "species": "Human"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "hs3",
+      "value": 8.341,
+      "species": "Human"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "mm1",
+      "value": 8.005,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "mm2",
+      "value": 8.121,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "mm3",
+      "value": 8.214,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "nmr5",
+      "value": 0.103,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SLC47A1_Slc47a1",
+      "sample": "nmr6",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "hs1",
+      "value": 7.663,
+      "species": "Human"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "hs2",
+      "value": 7.348,
+      "species": "Human"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "hs3",
+      "value": 7.283,
+      "species": "Human"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "mm1",
+      "value": 8.262,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "mm2",
+      "value": 8.435,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "mm3",
+      "value": 8.619,
+      "species": "Mouse"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "nmr5",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "CD164_Cd164",
+      "sample": "nmr6",
+      "value": 0.219,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "hs1",
+      "value": 8.458,
+      "species": "Human"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "hs2",
+      "value": 8.061,
+      "species": "Human"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "hs3",
+      "value": 8.446,
+      "species": "Human"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "mm1",
+      "value": 8.325,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "mm2",
+      "value": 8.525,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "mm3",
+      "value": 8.499,
+      "species": "Mouse"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "nmr4",
+      "value": 0.683,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "nmr5",
+      "value": 0.2,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "PCYOX1_Pcyox1",
+      "sample": "nmr6",
+      "value": 0.578,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "mm1",
+      "value": 7.954,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "mm2",
+      "value": 7.618,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "mm3",
+      "value": 7.262,
+      "species": "Mouse"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "nmr4",
+      "value": 8.082,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "nmr5",
+      "value": 8.178,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "APOM_Apom",
+      "sample": "nmr6",
+      "value": 7.999,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "hs1",
+      "value": 8.249,
+      "species": "Human"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "hs2",
+      "value": 7.914,
+      "species": "Human"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "hs3",
+      "value": 7.884,
+      "species": "Human"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "mm1",
+      "value": 0.383,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "mm2",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "mm3",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "nmr4",
+      "value": 0.165,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "nmr5",
+      "value": 0.29,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RPL30_Rpl30",
+      "sample": "nmr6",
+      "value": 0.114,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "hs1",
+      "value": 9.586,
+      "species": "Human"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "hs2",
+      "value": 8.963,
+      "species": "Human"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "hs3",
+      "value": 9.617,
+      "species": "Human"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "mm1",
+      "value": 6.566,
+      "species": "Mouse"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "mm2",
+      "value": 7.759,
+      "species": "Mouse"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "mm3",
+      "value": 7.487,
+      "species": "Mouse"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "nmr4",
+      "value": 0.683,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "nmr5",
+      "value": 0.738,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "HSPA8_Hspa8",
+      "sample": "nmr6",
+      "value": 0.798,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "hs1",
+      "value": 8.627,
+      "species": "Human"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "hs2",
+      "value": 8.347,
+      "species": "Human"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "hs3",
+      "value": 8.709,
+      "species": "Human"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "mm1",
+      "value": 8.981,
+      "species": "Mouse"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "mm2",
+      "value": 9.769,
+      "species": "Mouse"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "mm3",
+      "value": 9.709,
+      "species": "Mouse"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "nmr4",
+      "value": 1.365,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "nmr5",
+      "value": 1.028,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "HSP90AB1_Hsp90ab1",
+      "sample": "nmr6",
+      "value": 1.489,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "hs1",
+      "value": 6.975,
+      "species": "Human"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "hs2",
+      "value": 6.78,
+      "species": "Human"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "hs3",
+      "value": 7.07,
+      "species": "Human"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "mm1",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "mm2",
+      "value": 0.406,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "mm3",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "nmr4",
+      "value": 8.651,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "nmr5",
+      "value": 8.483,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "DAO_Dao",
+      "sample": "nmr6",
+      "value": 8.637,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "hs1",
+      "value": 8.963,
+      "species": "Human"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "hs2",
+      "value": 8.397,
+      "species": "Human"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "hs3",
+      "value": 8.187,
+      "species": "Human"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "mm1",
+      "value": 1.901,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "mm2",
+      "value": 1.393,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "mm3",
+      "value": 2.094,
+      "species": "Mouse"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "nmr4",
+      "value": 9.832,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "nmr5",
+      "value": 10.547,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "ACSM2A_Acsm2",
+      "sample": "nmr6",
+      "value": 10.375,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "hs1",
+      "value": 8.587,
+      "species": "Human"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "hs2",
+      "value": 8.515,
+      "species": "Human"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "hs3",
+      "value": 9.247,
+      "species": "Human"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "mm1",
+      "value": 7.551,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "mm2",
+      "value": 7.802,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "mm3",
+      "value": 8.559,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "nmr4",
+      "value": 0.788,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "nmr5",
+      "value": 0.604,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SLC1A2_Slc1a2",
+      "sample": "nmr6",
+      "value": 0.865,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "mm1",
+      "value": 7.352,
+      "species": "Mouse"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "mm2",
+      "value": 6.494,
+      "species": "Mouse"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "mm3",
+      "value": 8.885,
+      "species": "Mouse"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "nmr4",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "nmr5",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "OBP2B_Obp2a",
+      "sample": "nmr6",
+      "value": 0.0,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "mm1",
+      "value": 7.734,
+      "species": "Mouse"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "mm2",
+      "value": 7.891,
+      "species": "Mouse"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "mm3",
+      "value": 7.899,
+      "species": "Mouse"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "nmr4",
+      "value": 7.424,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "nmr5",
+      "value": 7.174,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "EIF3C_Eif3c",
+      "sample": "nmr6",
+      "value": 7.371,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "hs1",
+      "value": 1.167,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "hs2",
+      "value": 1.054,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "hs3",
+      "value": 1.035,
+      "species": "Human"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "mm1",
+      "value": 8.135,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "mm2",
+      "value": 8.678,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "mm3",
+      "value": 8.836,
+      "species": "Mouse"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "nmr4",
+      "value": 8.71,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "nmr5",
+      "value": 8.548,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "RGPD4_Ranbp2",
+      "sample": "nmr6",
+      "value": 8.857,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "hs1",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "hs2",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "hs3",
+      "value": 0.0,
+      "species": "Human"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "mm1",
+      "value": 6.868,
+      "species": "Mouse"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "mm2",
+      "value": 7.336,
+      "species": "Mouse"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "mm3",
+      "value": 7.185,
+      "species": "Mouse"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "nmr4",
+      "value": 7.743,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "nmr5",
+      "value": 7.993,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "H3F3A_H3f3b",
+      "sample": "nmr6",
+      "value": 7.892,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "hs1",
+      "value": 7.254,
+      "species": "Human"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "hs2",
+      "value": 7.416,
+      "species": "Human"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "hs3",
+      "value": 6.963,
+      "species": "Human"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "mm1",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "mm2",
+      "value": 0.0,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "mm3",
+      "value": 0.324,
+      "species": "Mouse"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "nmr4",
+      "value": 7.916,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "nmr5",
+      "value": 8.738,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "TRANK1_Trank1",
+      "sample": "nmr6",
+      "value": 5.495,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "hs1",
+      "value": 7.378,
+      "species": "Human"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "hs2",
+      "value": 7.368,
+      "species": "Human"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "hs3",
+      "value": 8.18,
+      "species": "Human"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "mm1",
+      "value": 9.882,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "mm2",
+      "value": 9.845,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "mm3",
+      "value": 9.828,
+      "species": "Mouse"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "nmr4",
+      "value": 1.967,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "nmr5",
+      "value": 1.786,
+      "species": "Naked Mole Rat"
+    },
+    {
+      "gene": "SEC14L2_Sec14l2",
+      "sample": "nmr6",
+      "value": 1.261,
+      "species": "Naked Mole Rat"
+    }
+  ]
+}

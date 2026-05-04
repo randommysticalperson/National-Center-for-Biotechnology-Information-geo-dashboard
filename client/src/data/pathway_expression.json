@@ -1,0 +1,326 @@
+[
+  {
+    "pathway": "BER",
+    "sample": "hs1",
+    "species": "Human",
+    "mean_expr": 4.1076
+  },
+  {
+    "pathway": "BER",
+    "sample": "hs2",
+    "species": "Human",
+    "mean_expr": 4.0398
+  },
+  {
+    "pathway": "BER",
+    "sample": "hs3",
+    "species": "Human",
+    "mean_expr": 4.0485
+  },
+  {
+    "pathway": "BER",
+    "sample": "mm1",
+    "species": "Mouse",
+    "mean_expr": 3.6878
+  },
+  {
+    "pathway": "BER",
+    "sample": "mm2",
+    "species": "Mouse",
+    "mean_expr": 3.8478
+  },
+  {
+    "pathway": "BER",
+    "sample": "mm3",
+    "species": "Mouse",
+    "mean_expr": 3.8491
+  },
+  {
+    "pathway": "BER",
+    "sample": "nmr4",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.5343
+  },
+  {
+    "pathway": "BER",
+    "sample": "nmr5",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.3135
+  },
+  {
+    "pathway": "BER",
+    "sample": "nmr6",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.156
+  },
+  {
+    "pathway": "NER",
+    "sample": "hs1",
+    "species": "Human",
+    "mean_expr": 4.9256
+  },
+  {
+    "pathway": "NER",
+    "sample": "hs2",
+    "species": "Human",
+    "mean_expr": 4.8604
+  },
+  {
+    "pathway": "NER",
+    "sample": "hs3",
+    "species": "Human",
+    "mean_expr": 4.8537
+  },
+  {
+    "pathway": "NER",
+    "sample": "mm1",
+    "species": "Mouse",
+    "mean_expr": 5.4001
+  },
+  {
+    "pathway": "NER",
+    "sample": "mm2",
+    "species": "Mouse",
+    "mean_expr": 5.6346
+  },
+  {
+    "pathway": "NER",
+    "sample": "mm3",
+    "species": "Mouse",
+    "mean_expr": 5.6178
+  },
+  {
+    "pathway": "NER",
+    "sample": "nmr4",
+    "species": "Naked Mole Rat",
+    "mean_expr": 4.919
+  },
+  {
+    "pathway": "NER",
+    "sample": "nmr5",
+    "species": "Naked Mole Rat",
+    "mean_expr": 4.8778
+  },
+  {
+    "pathway": "NER",
+    "sample": "nmr6",
+    "species": "Naked Mole Rat",
+    "mean_expr": 4.7137
+  },
+  {
+    "pathway": "MMR",
+    "sample": "hs1",
+    "species": "Human",
+    "mean_expr": 4.7541
+  },
+  {
+    "pathway": "MMR",
+    "sample": "hs2",
+    "species": "Human",
+    "mean_expr": 4.6317
+  },
+  {
+    "pathway": "MMR",
+    "sample": "hs3",
+    "species": "Human",
+    "mean_expr": 4.7257
+  },
+  {
+    "pathway": "MMR",
+    "sample": "mm1",
+    "species": "Mouse",
+    "mean_expr": 4.3949
+  },
+  {
+    "pathway": "MMR",
+    "sample": "mm2",
+    "species": "Mouse",
+    "mean_expr": 4.4905
+  },
+  {
+    "pathway": "MMR",
+    "sample": "mm3",
+    "species": "Mouse",
+    "mean_expr": 4.65
+  },
+  {
+    "pathway": "MMR",
+    "sample": "nmr4",
+    "species": "Naked Mole Rat",
+    "mean_expr": 4.4792
+  },
+  {
+    "pathway": "MMR",
+    "sample": "nmr5",
+    "species": "Naked Mole Rat",
+    "mean_expr": 4.5729
+  },
+  {
+    "pathway": "MMR",
+    "sample": "nmr6",
+    "species": "Naked Mole Rat",
+    "mean_expr": 4.353
+  },
+  {
+    "pathway": "HR",
+    "sample": "hs1",
+    "species": "Human",
+    "mean_expr": 3.5739
+  },
+  {
+    "pathway": "HR",
+    "sample": "hs2",
+    "species": "Human",
+    "mean_expr": 3.1829
+  },
+  {
+    "pathway": "HR",
+    "sample": "hs3",
+    "species": "Human",
+    "mean_expr": 3.4531
+  },
+  {
+    "pathway": "HR",
+    "sample": "mm1",
+    "species": "Mouse",
+    "mean_expr": 2.7846
+  },
+  {
+    "pathway": "HR",
+    "sample": "mm2",
+    "species": "Mouse",
+    "mean_expr": 3.3024
+  },
+  {
+    "pathway": "HR",
+    "sample": "mm3",
+    "species": "Mouse",
+    "mean_expr": 3.4296
+  },
+  {
+    "pathway": "HR",
+    "sample": "nmr4",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.8967
+  },
+  {
+    "pathway": "HR",
+    "sample": "nmr5",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.6378
+  },
+  {
+    "pathway": "HR",
+    "sample": "nmr6",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.4508
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "hs1",
+    "species": "Human",
+    "mean_expr": 4.1426
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "hs2",
+    "species": "Human",
+    "mean_expr": 3.7267
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "hs3",
+    "species": "Human",
+    "mean_expr": 4.1199
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "mm1",
+    "species": "Mouse",
+    "mean_expr": 3.4811
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "mm2",
+    "species": "Mouse",
+    "mean_expr": 3.9867
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "mm3",
+    "species": "Mouse",
+    "mean_expr": 3.9221
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "nmr4",
+    "species": "Naked Mole Rat",
+    "mean_expr": 4.047
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "nmr5",
+    "species": "Naked Mole Rat",
+    "mean_expr": 4.0785
+  },
+  {
+    "pathway": "NHEJ",
+    "sample": "nmr6",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.7667
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "hs1",
+    "species": "Human",
+    "mean_expr": 4.4579
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "hs2",
+    "species": "Human",
+    "mean_expr": 4.48
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "hs3",
+    "species": "Human",
+    "mean_expr": 4.4222
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "mm1",
+    "species": "Mouse",
+    "mean_expr": 3.8824
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "mm2",
+    "species": "Mouse",
+    "mean_expr": 3.8974
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "mm3",
+    "species": "Mouse",
+    "mean_expr": 3.9842
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "nmr4",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.0034
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "nmr5",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.4349
+  },
+  {
+    "pathway": "Direct Reversal",
+    "sample": "nmr6",
+    "species": "Naked Mole Rat",
+    "mean_expr": 3.1524
+  }
+]

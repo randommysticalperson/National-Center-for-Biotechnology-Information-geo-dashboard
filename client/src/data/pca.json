@@ -1,0 +1,81 @@
+{
+  "points": [
+    {
+      "sample": "hs1",
+      "species": "Human",
+      "color": "#3B82F6",
+      "pc1": 1.1988,
+      "pc2": -96.4561,
+      "pc3": -13.846
+    },
+    {
+      "sample": "hs2",
+      "species": "Human",
+      "color": "#3B82F6",
+      "pc1": -4.158,
+      "pc2": -96.8583,
+      "pc3": 9.905
+    },
+    {
+      "sample": "hs3",
+      "species": "Human",
+      "color": "#3B82F6",
+      "pc1": -2.4499,
+      "pc2": -96.7114,
+      "pc3": 6.0326
+    },
+    {
+      "sample": "mm1",
+      "species": "Mouse",
+      "color": "#EF4444",
+      "pc1": 84.6606,
+      "pc2": 47.4983,
+      "pc3": -34.7538
+    },
+    {
+      "sample": "mm2",
+      "species": "Mouse",
+      "color": "#EF4444",
+      "pc1": 85.59,
+      "pc2": 44.7502,
+      "pc3": 18.8663
+    },
+    {
+      "sample": "mm3",
+      "species": "Mouse",
+      "color": "#EF4444",
+      "pc1": 86.1068,
+      "pc2": 48.1157,
+      "pc3": 15.2071
+    },
+    {
+      "sample": "nmr4",
+      "species": "Naked Mole Rat",
+      "color": "#10B981",
+      "pc1": -83.7874,
+      "pc2": 54.6527,
+      "pc3": 54.0304
+    },
+    {
+      "sample": "nmr5",
+      "species": "Naked Mole Rat",
+      "color": "#10B981",
+      "pc1": -84.1643,
+      "pc2": 46.1611,
+      "pc3": -13.8994
+    },
+    {
+      "sample": "nmr6",
+      "species": "Naked Mole Rat",
+      "color": "#10B981",
+      "pc1": -82.9967,
+      "pc2": 48.8478,
+      "pc3": -41.5423
+    }
+  ],
+  "meta": {
+    "pc1_var": 36.9,
+    "pc2_var": 36.2,
+    "pc3_var": 6.0
+  }
+}

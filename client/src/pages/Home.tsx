@@ -1,24 +1,61 @@
-import { Button } from "@/components/ui/button";
-import { Loader2 } from "lucide-react";
-import { Streamdown } from 'streamdown';
+import { useState } from "react";
+import Sidebar, { TabId } from "@/components/Sidebar";
+import OverviewPanel from "@/components/panels/OverviewPanel";
+import PCAPanel from "@/components/panels/PCAPanel";
+import HeatmapPanel from "@/components/panels/HeatmapPanel";
+import PathwayPanel from "@/components/panels/PathwayPanel";
+import ViolinPanel from "@/components/panels/ViolinPanel";
+import GeneTablePanel from "@/components/panels/GeneTablePanel";
 
-/**
- * All content in this page are only for example, replace with your own feature implementation
- * When building pages, remember your instructions in Frontend Best Practices, Design Guide and Common Pitfalls
- */
 export default function Home() {
-  // If theme is switchable in App.tsx, we can implement theme toggling like this:
-  // const { theme, toggleTheme } = useTheme();
+  const [activeTab, setActiveTab] = useState<TabId>("overview");
+
+  const renderPanel = () => {
+    switch (activeTab) {
+      case "overview":  return <OverviewPanel />;
+      case "pca":       return <PCAPanel />;
+      case "heatmap":   return <HeatmapPanel />;
+      case "pathway":   return <PathwayPanel />;
+      case "violin":    return <ViolinPanel />;
+      case "genes":     return <GeneTablePanel />;
+      default:          return <OverviewPanel />;
+    }
+  };
 
   return (
-    <div className="min-h-screen flex flex-col">
-      <main>
-        {/* Example: lucide-react for icons */}
-        <Loader2 className="animate-spin" />
-        Example Page
-        {/* Example: Streamdown for markdown rendering */}
-        <Streamdown>Any **markdown** content</Streamdown>
-        <Button variant="default">Example Button</Button>
+    <div className="flex min-h-screen bg-background">
+      <Sidebar activeTab={activeTab} onTabChange={setActiveTab} />
+
+      {/* Main content */}
+      <main className="flex-1 overflow-y-auto">
+        {/* Top bar */}
+        <div className="sticky top-0 z-20 bg-white/80 backdrop-blur-sm border-b border-border px-8 py-3 flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <span
+              className="text-xs font-semibold uppercase tracking-widest text-muted-foreground"
+              style={{ fontFamily: "Oswald, sans-serif" }}
+            >
+              NCBI GEO
+            </span>
+            <span className="text-muted-foreground text-xs">›</span>
+            <span
+              className="text-xs font-semibold uppercase tracking-widest"
+              style={{ fontFamily: "Oswald, sans-serif", color: "#1e293b" }}
+            >
+              GSE75606
+            </span>
+            <span className="text-muted-foreground text-xs">›</span>
+            <span className="text-xs text-muted-foreground capitalize">{activeTab}</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="text-xs text-muted-foreground">Log₂ CPM · Liver RNA-seq · 3 Species · 9 Samples</span>
+          </div>
+        </div>
+
+        {/* Panel content */}
+        <div className="px-8 py-6">
+          {renderPanel()}
+        </div>
       </main>
     </div>
   );
